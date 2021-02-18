@@ -11,7 +11,7 @@
     <meta name="description" content="Bhumlu Bootstrap admin template made using Bootstrap 4, it has tons of ready made feature, UI components, pages which completely fulfills any dashboard needs." />
     <meta name="keywords" content="Bhumlu, bootstrap admin template, bootstrap admin panel, bootstrap 4 admin template, admin template">
     <meta name="author" content="Conexa" />
-    <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="../views/assets/img/favicon.ico">
 
     <!-- [ assets ] start -->
 	<?php include('views/inc/assets/css.php'); ?>
